@@ -1,0 +1,1 @@
+If you can see this text when running the exported program, then res:// also refers to the environment godot is executed in.
